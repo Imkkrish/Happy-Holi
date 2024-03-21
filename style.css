@@ -15,7 +15,7 @@ body{
 }
 .navbar{
     display: flex;
-    justify-content: right;
+    justify-content:;
 
 }
 
@@ -31,7 +31,7 @@ body{
     font-weight: bold;
 }
 a:hover{
-    background: rgb(240, 81, 2);
+    background: rgba(240, 81, 2, 0.495);
     color: black;
 }
 .myinfo
